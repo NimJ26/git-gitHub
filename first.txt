@@ -1,0 +1,1 @@
+created a text document, then proceed to commit it in order to truly make it a part of the local repository
